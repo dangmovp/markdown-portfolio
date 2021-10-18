@@ -1,1 +1,8 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+*my English is good*
+
+_I love God_
+
+**God is Love**
+
+__Winter is coming__
+
